@@ -1,1 +1,2 @@
 this is for the merge conflict
+content to append
